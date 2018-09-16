@@ -9,10 +9,11 @@ Welcome to *Malibu Carl*'s recipe book!
 Here's some recipes!
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
 
-
+   recipes/*
 
 Indices and tables
 ==================
