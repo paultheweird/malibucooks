@@ -12,7 +12,7 @@ Here's some recipes!
    :glob:
    :numbered:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: List of recipes
 
    recipes/*
 
