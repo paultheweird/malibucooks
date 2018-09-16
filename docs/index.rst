@@ -10,6 +10,7 @@ Here's some recipes!
 
 .. toctree::
    :glob:
+   :numbered:
    :maxdepth: 2
    :caption: Contents:
 
