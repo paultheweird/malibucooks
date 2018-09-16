@@ -1,5 +1,5 @@
-Pintxos and portions
-====================
+Starters
+========
 
 Recipe 1
 --------
