@@ -5,14 +5,17 @@
 
 Welcome to *Malibu Carl*'s recipe book!
 =======================================
+Here's some recipes!
 
 Here's some recipes!
 
 .. toctree::
+   :glob:
+   :numbered:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: List of recipes
 
-
+   recipes/*
 
 Indices and tables
 ==================
