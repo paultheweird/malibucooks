@@ -5,7 +5,6 @@
 
 Welcome to *Malibu Carl*'s recipe book!
 =======================================
-Here's some recipes!
 
 Here's some recipes!
 
