@@ -42,7 +42,10 @@ Assembly and baking
 
 Notes
 ^^^^^
-Caution! Molten sugar will burn you, be careful!
+**Caution!** Molten sugar will burn you, be careful!
+
 Caramel will solidify in seconds, be quick when spreading over cold recipients
+
 If baked in individual recipients one can eat directly from them, but it looks nicer if served on a small plate
+
 To self: do about 75% of the quantities above if you are to use your usual, repurposed ceramic recipients
