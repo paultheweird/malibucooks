@@ -49,3 +49,7 @@ If some spices are not available, just keep cooking - it'll taste fine
 
 Processing pistachio is by far the most expensive step of the recipe, get someone friendly hands to help
 
+Soup can also be blend using a manual masher or food processor
+
+External resources:
+* Najmieh Batmanglij's "Food of life: ancient persian and modern iranian cooking and ceremonies"
